@@ -1,0 +1,3 @@
+npm init ---> me inicializa node en este proyecto, package.json
+npm install express me instala exprese
+.gitignore solo me ayuda a que no se suba a git la parte de node_modules
